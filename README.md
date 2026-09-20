@@ -31,5 +31,7 @@ The focus is on foundational SOC analyst skills, including log analysis, network
 ## Current development
 Currently preparing for CompTIA Security+ certification and expanding practical SOC analysis skills.
 
+**Upate September 2026:** CompTIA Security+ certified. Currently expanding my cybersecurity portfolio through hands-on projects focused on network traffic analysis, security monitoring and web security.
+
 ## Goal
 Entry-level SOC Analyst (L1) role with focus on monitoring, alert triage, and incident response support.
