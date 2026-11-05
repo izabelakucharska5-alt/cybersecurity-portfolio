@@ -1,37 +1,42 @@
 # Cybersecurity Portfolio
 
-This portfolio contains practical projects completed as part of cybersecurity training (Google Cybersecurity Certificate and Cisco courses).
+A collection of practical cybersecurity projects and labs completed as part of independent learning, Google Cybersecurity Certificate and Cisco training.
 
-The focus is on foundational SOC analyst skills, including log analysis, network security, system hardening, and incident investigation.
+**Focus:** SOC Analysis | Blue Team | Network Security | Incident Response
 
-## Areas covered
-- Linux security and file permissions analysis
-- Incident reporting and investigation
-- Network hardening concepts
-- Basic SQL filtering and query analysis
-- Introduction to Python automation for security tasks
-- Network protocol analysis
+## Projects
 
-## Projects included
-- Linux file permissions analysis
-- OS hardening review
-- Network hardening assessment
-- Security incident reports (including DoS scenario)
-- Incident report analysis
-- SQL query filtering exercises
-- Python-based file update algorithm
+| Project | Description |
+|---|---|
+| [File Permissions in Linux](./File%20permissions%20in%20Linux/) | Linux file permissions and access control |
+| [Incident Report Analysis](./Incident%20report%20analysis/) | Security incident investigation and analysis |
+| [OS Hardening](./OS%20Hardening/) | Operating system security and hardening |
+| [SQL](./SQL/) | SQL queries and security-related data filtering |
+| [DoS Incident Report](./Security%20incident%20report%20DoS/) | Analysis and documentation of a DoS incident |
+| [Security Incident Report](./Security%20incident%20report/) | Incident documentation and response |
+| [Phishing Response Playbook](./Use%20a%20playbook%20to%20respond%20to%20a%20phishing%20incident/) | Phishing incident response using a playbook |
+| [Vulnerability Assessment](./Vulnerability%20assesment/) | Vulnerability identification and assessment |
 
-## Tools and concepts
-- Linux CLI
-- Basic Windows and Linux logs
-- Networking (TCP/IP, DNS, HTTP/HTTPS)
-- Security concepts (CIA triad, least privilege, attack vectors)
-- Basic SIEM awareness (log correlation, alerting concepts)
+## Skills & Technologies
 
-## Current development
-Currently preparing for CompTIA Security+ certification and expanding practical SOC analysis skills.
+- Linux, Windows security and access control
+- Network security (TCP/IP, DNS, HTTP/HTTPS)
+- Security log analysis and incident investigation
+- SQL and basic Python
+- SIEM fundamentals
+- Incident response and threat analysis
 
-**Upate September 2026:** CompTIA Security+ certified. Currently expanding my cybersecurity portfolio through hands-on projects focused on network traffic analysis, security monitoring and web security.
+## Certifications
 
-## Goal
-Entry-level SOC Analyst (L1) role with focus on monitoring, alert triage, and incident response support.
+- CompTIA Security+
+- Google Cybersecurity Professional Certificate
+- Cisco Networking Basics
+- Introduction to Cybersecurity
+
+## Current Development
+
+Expanding practical blue team skills through hands-on projects focused on phishing investigation, security monitoring, network traffic analysis and incident response.
+
+## Career Goal
+
+Entry-level SOC Analyst (L1) / Junior Security Analyst.
